@@ -7,7 +7,7 @@ import { Toolbar } from "./Toolbar";
 
 const Container = styled.div`
   max-width: 1350px;
-  margin: 0 5%;
+  margin: 0 auto;
   min-width: 300px;
 
   @media (min-width: 1200px) and (max-width: 1420px) {
